@@ -1,3 +1,10 @@
+to play game use arrows to move character
+character has to make it to lake
+without being touched
+
+
+
+
 frontend-nanodegree-arcade-game
 ===============================
 
